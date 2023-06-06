@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?><imgdir name="57402.img"><imgdir name="QuestInfo"><string name="name" value="新たな始まり"/><int name="area" value="58"/><int name="selfStart" value="1"/><string name="0" value="カネツグは信じられない事実について話してくれた。まずは考えを整理した後、カネツグについて行ってみようか？"/><string name="1" value="異変によって全てが変わってしまった今、まず、やるべきことは新しい拠点に行って最大限多くの情報を集めること。カネツグについて新しい拠点に行こう。"/><string name="2" value="私を拠点として案内してくれたカネツグはケンシン捜索を続くため旅立った。カネツグに言われた拠点にいるモリ公に会ってみよう。"/><string name="rewardSummary" value="#Wbasic#
+#fUI/UIWindow2.img/QuestIcon/8/0# 1,242
+#i2001500:# #t2001500:# 100 개
+#i2001503:# #t2001503:# 100 개
+&apos;力が入らない&apos; 퀘스트로 진행 가능
+"/></imgdir><imgdir name="Check"><imgdir name="0"><string name="startscript" value="q57402s"/><imgdir name="quest"><imgdir name="0"><int name="id" value="57401"/><int name="state" value="2"/></imgdir></imgdir><int name="lvmin" value="11"/><imgdir name="job"><int name="0" value="4200"/><int name="1" value="4210"/><int name="2" value="4211"/><int name="3" value="4212"/></imgdir></imgdir><imgdir name="1"><int name="npc" value="9130083"/><string name="endscript" value="q57402e"/></imgdir></imgdir><imgdir name="Act"><imgdir name="0"></imgdir><imgdir name="1"></imgdir></imgdir><imgdir name="Say"><imgdir name="0"></imgdir><imgdir name="1"></imgdir></imgdir></imgdir>
